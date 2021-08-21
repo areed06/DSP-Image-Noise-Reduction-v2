@@ -1,0 +1,4 @@
+﻿  SnP.cpp
+C:\Users\alree\Documents\Computer_Programming\Projects_in_CPP\CPP_019_Noise_Reduction_Program_v3\SnP.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alree\Documents\Computer_Programming\Projects_in_CPP\CPP_019_Noise_Reduction_Program_v3\SnP.cpp(80,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CPP_019_Noise_Reduction_Program_v3.vcxproj -> C:\Users\alree\Documents\Computer_Programming\Projects_in_CPP\CPP_019_Noise_Reduction_Program_v3\Debug\CPP_019_Noise_Reduction_Program_v3.exe
